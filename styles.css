@@ -1,0 +1,19 @@
+.drop{
+    position: absolute;
+    height: 0em;
+    width: 0em;
+    border: 2px solid black;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+#app{
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+#title{
+    top: 50%;
+    right: 50%;
+}
